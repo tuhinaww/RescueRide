@@ -17,7 +17,7 @@
 ### RescueRide aligns with several of the United Nations' Sustainable Development Goals (SDGs) and targets, including: 
 ### SDG 3: Good Health and Well-Being:- Target 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
 ### SDG 9: Industry, Innovation and Infrastructure:- Target 9.1: Develop quality, reliable, sustainable, and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.
-### SDG 11: Sustainable Cities and Communities:- Target 11.2: By 2030, provide access to safe, affordable, accessible, and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities, and older persons.
+### SDG 11: Sustainable Cities:- Target 11.2: By 2030, provide access to safe, affordable, accessible, and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities, and older persons.
 
 ## Tech Stack 👩🏽‍💻:
 
