@@ -1,38 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#### RescueRide
+--
 
-## Getting Started
+### Introduction!
 
-First, run the development server:
+## It gives me great pleasure to introduce my team, RescueRide, who will be participating in the GDSC Solutions challenge 2023. Our team comprises of three talented individuals from the GDSC chapter of SRM Institute of Science and Technology Kattankulathur - Tuhina Tripathi, Karthik Manikantan, and Akanksha Rathore. Together, we are committed to putting our best foot forward and showcasing our skills to the best of our abilities. We are confident that our unique blend of skills and expertise will enable us to come up with innovative solutions to the challenges posed by the GDSC Solutions challenge 2023.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Thank you for your time and consideration. We look forward to presenting our ideas and solutions to you.
+--
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Problem Statement:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## The problem of calling each and every hospital for an ambulance during an emergency can be highly stressful and time-consuming. It can lead to a delay in getting medical assistance and can significantly impact the chances of survival of the patient.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## A study conducted by the National Center for Biotechnology Information (NCBI) in India found that out of 1589 critically ill patients, about 14.3% of them experienced an ambulance delay of more than 30 minutes. Out of those, 67.9% of patients had a worse outcome, and 32.1% of patients died.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## In another study conducted by the Journal of Emergency Medical Services in the United States, it was found that the response time for an ambulance to arrive at the scene of an emergency varied significantly from state to state. The median response time was found to be 7.59 minutes, but in some states, it exceeded 14 minutes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Thus, it is crucial to have a well-organized and streamlined system in place to ensure timely access to emergency medical services and ambulance services.
+--
 
-## Learn More
+### Our Solution: 
 
-To learn more about Next.js, take a look at the following resources:
+## RescueRide is a revolutionary web application that can potentially solve the problem of ambulance delays during emergencies. It connects patients with ambulance services. With RescueRide, people in need can request an ambulance in a matter of minutes, choose the size and type of ambulance they require, and select whether they need a doctor on board or not.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## The web application can also provide real-time information about the location of the ambulance, estimated arrival time, and the status of the patient's condition. The app can be accessed on any device with an internet connection, making it widely accessible to people in need.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## RescueRide can be beneficial for people living in remote areas or in regions where ambulance services are not adequately available. The app can also help in reducing ambulance response times and improving the overall quality of care delivered to patients during medical emergencies.
 
-## Deploy on Vercel
+## The app can be integrated with emergency medical services, and ambulance service providers can sign up on the app to provide their services. The application can also be used to collect and store medical history and other relevant information that can be used by medical professionals to provide appropriate treatment during emergencies.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## In conclusion, RescueRide has the potential to revolutionize the ambulance service industry by providing quick and efficient ambulance services during emergencies, reducing response times, and improving overall patient outcomes.
+--
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Tech Stack:
+
+## RescueRide is a web application that uses a range of modern technologies to provide efficient and reliable ambulance services during medical emergencies. The tech stack used in making RescueRide includes React.js, Tailwind.css, Firebase, Mapbox, and Next.js.
+
+## React.js is a popular open-source JavaScript library that is widely used for building user interfaces. It is known for its performance, scalability, and ease of use, which makes it an excellent choice for developing RescueRide's user interface.
+
+## Tailwind.css is a utility-first CSS framework that helps in quickly building modern user interfaces. It offers pre-designed styles for different components, which helps developers in quickly creating responsive and beautiful interfaces.
+
+## Firebase is a comprehensive mobile and web application development platform that offers features like real-time database, hosting, authentication, and cloud storage. RescueRide uses Firebase to store user data, provide real-time updates, and authenticate users through Google sign-in, reducing the time required for users to sign up and login.
+
+## Mapbox is an open-source mapping platform that provides customizable maps and location-based data to help in developing location-based applications. RescueRide uses Mapbox to provide location-based information about the ambulances, such as their real-time location, distance from the user's location, and estimated time of arrival.
+
+## Next.js is a framework built on top of React.js that provides server-side rendering, static site generation, and other advanced features. It helps in improving the performance and speed of the application, making it ideal for RescueRide's use case.
+--
