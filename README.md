@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://ibb.co/HYhhJmG"><img src="https://i.ibb.co/K7KK1CV/R-1.png" alt="R-1" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tmhWcpz/R-2.png" alt="R-2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XVRqskT/R-3.png" alt="R-3" border="0"></a>
   <h2 align="center">Saving lives, one ride at a time with RescueRide!</h2>
 </p>
 ## Introduction!👋🏽
