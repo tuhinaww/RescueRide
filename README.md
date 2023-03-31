@@ -1,11 +1,11 @@
-## RescueRide
+# RescueRide
 
-### Introduction!
+# Introduction!
 
-# It gives me great pleasure to introduce my team, RescueRide, who will be participating in the GDSC Solutions challenge 2023. Our team comprises of three talented individuals from the GDSC chapter of SRM Institute of Science and Technology Kattankulathur - Tuhina Tripathi, Karthik Manikantan, and Akanksha Rathore. Together, we are committed to putting our best foot forward and showcasing our skills to the best of our abilities. We are confident that our unique blend of skills and expertise will enable us to come up with innovative solutions to the challenges posed by the GDSC Solutions challenge 2023. Thank you for your time and consideration. We look forward to presenting our ideas and solutions to you.
+## It gives me great pleasure to introduce my team, RescueRide, who will be participating in the GDSC Solutions challenge 2023. Our team comprises of three talented individuals from the GDSC chapter of SRM Institute of Science and Technology Kattankulathur - Tuhina Tripathi, Karthik Manikantan, and Akanksha Rathore. Together, we are committed to putting our best foot forward and showcasing our skills to the best of our abilities. We are confident that our unique blend of skills and expertise will enable us to come up with innovative solutions to the challenges posed by the GDSC Solutions challenge 2023. Thank you for your time and consideration. We look forward to presenting our ideas and solutions to you.
 --
 
-### Problem Statement:
+# Problem Statement:
 
 ## The problem of calling each and every hospital for an ambulance during an emergency can be highly stressful and time-consuming. It can lead to a delay in getting medical assistance and can significantly impact the chances of survival of the patient.
 
@@ -16,7 +16,7 @@
 ## Thus, it is crucial to have a well-organized and streamlined system in place to ensure timely access to emergency medical services and ambulance services.
 --
 
-### Our Solution: 
+# Our Solution: 
 
 ## RescueRide is a revolutionary web application that can potentially solve the problem of ambulance delays during emergencies. It connects patients with ambulance services. With RescueRide, people in need can request an ambulance in a matter of minutes, choose the size and type of ambulance they require, and select whether they need a doctor on board or not.
 
@@ -29,7 +29,7 @@
 ## In conclusion, RescueRide has the potential to revolutionize the ambulance service industry by providing quick and efficient ambulance services during emergencies, reducing response times, and improving overall patient outcomes.
 --
 
-### Tech Stack:
+# Tech Stack:
 
 ## RescueRide is a web application that uses a range of modern technologies to provide efficient and reliable ambulance services during medical emergencies. The tech stack used in making RescueRide includes React.js, Tailwind.css, Firebase, Mapbox, and Next.js.
 
