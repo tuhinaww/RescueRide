@@ -5,6 +5,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/XVRqskT/R-3.png" alt="R-3" border="0"></a>
   <h2 align="center">Saving lives, one ride at a time with RescueRide!</h2>
 </p>
+
 ## Introduction!👋🏽
 
 ### It gives me great pleasure to introduce my team, RescueRide, who will be participating in the GDSC Solutions challenge 2023. Our team comprises of three talented individuals from the GDSC chapter of SRM Institute of Science and Technology Kattankulathur - Tuhina Tripathi, Karthik Manikantan, and Akanksha Rathore. Together, we are committed to putting our best foot forward and showcasing our skills to the best of our abilities. We are confident that our unique blend of skills and expertise will enable us to come up with innovative solutions to the challenges posed by the GDSC Solutions challenge 2023. Thank you for your time and consideration. We look forward to presenting our ideas and solutions to you. 
